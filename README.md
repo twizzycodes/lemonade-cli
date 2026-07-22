@@ -120,7 +120,7 @@ limits; when you hit one, Lemonade retries with backoff and, if it still fails,
 shows a clear message pointing you to switch models or check your dashboard.
 
 <p align="center">
-  <img src="https://i.imgur.com/h83UN9q.gif" width="600" alt="Lemonade">
+  <img src="https://i.imgur.com/AYSmYvi.gif" width="600" alt="Lemonade">
 </p>
 
 ## Other OpenAI-compatible endpoints
