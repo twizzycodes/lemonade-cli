@@ -7,7 +7,7 @@
  * they can be handed to Ink's `color`/`borderColor` props or to chalk.hex().
  */
 export const palette = {
-    /** Primary brand accent — borders, headers, logo, primary actions. */
+    /** Primary brand accent — borders, headers, logo, primary actions. Preset*/
     orange: '#F97316',
     orangeBright: '#FB923C',
     /** Secondary accent — highlights, selected states, streaming cursor. */
