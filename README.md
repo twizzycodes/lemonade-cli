@@ -8,7 +8,7 @@ files, runs commands, and iterates until your project runs. All wrapped in a war
 citrus terminal UI.
 
 <p align="center">
-  <img src="https://i.imgur.com/McdsMLp.png" width="400" alt="Lemonade">
+  <img src="https://i.imgur.com/McdsMLp.png" width="600" alt="Lemonade">
 </p>
 
 
