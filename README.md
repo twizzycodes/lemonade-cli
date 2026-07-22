@@ -7,9 +7,7 @@ access for. Point it at an API key, describe what you want, and it plans, writes
 files, runs commands, and iterates until your project runs. All wrapped in a warm
 citrus terminal UI.
 
-(https://i.imgur.com/McdsMLp.png)
-
-> _Add a real screenshot or GIF of the welcome screen here before publishing._
+https://i.imgur.com/McdsMLp.png
 
 ---
 
