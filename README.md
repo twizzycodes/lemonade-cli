@@ -89,6 +89,10 @@ each step — just like a pair programmer.
 
 **Keyboard:** `Esc` or `Ctrl+B` interrupts a running task · `Ctrl+C` twice exits.
 
+<p align="center">
+  <img src="https://i.imgur.com/9KZYbZY.gif" width="600" alt="Example">
+</p>
+
 ## Command-line flags
 
 | Flag | Meaning |
