@@ -115,6 +115,10 @@ Free models (the `:free` suffix) are labeled `[free]`. They have tighter rate
 limits; when you hit one, Lemonade retries with backoff and, if it still fails,
 shows a clear message pointing you to switch models or check your dashboard.
 
+<p align="center">
+  <img src="https://i.imgur.com/h83UN9q.gif" width="600" alt="Lemonade">
+</p>
+
 ## Other OpenAI-compatible endpoints
 
 OpenRouter is the default, but Lemonade talks the OpenAI chat-completions
