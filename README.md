@@ -155,8 +155,7 @@ Never commit a real key.
 ## Contributing
 
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) and our
-[Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-[MIT](LICENSE) © Lemonade.
+[LICENSE](LICENSE)© Lemonade.
