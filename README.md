@@ -7,23 +7,7 @@ access for. Point it at an API key, describe what you want, and it plans, writes
 files, runs commands, and iterates until your project runs. All wrapped in a warm
 citrus terminal UI.
 
-```
-╭───────────────────────────╮ ╭────────────────────────────────╮
-│ Lemonade v0.1.0           │ │ Recent activity                │
-│                           │ │                                │
-│   Welcome back, twizzy!   │ │ 2m ago   Built landing page    │
-│            ◝◜            │ │ 1h ago   Added auth routes     │
-│            ▄███▄          │ │ 1d ago   Fixed lint errors     │
-│           ██████          │ │ … /history for more            │
-│            ▀███▀          │ ╰────────────────────────────────╯
-│                           │ ╭────────────────────────────────╮
-│ anthropic/claude-sonnet-5 │ │ What's new                     │
-│       sk-or-...ab12       │ │ /folder to edit in a directory │
-│  /home/twiz/lemonade-cli  │ │ /model to switch models        │
-╰───────────────────────────╯ ╰────────────────────────────────╯
-
-> Try "build a REST API for a bookstore"
-```
+(https://i.imgur.com/McdsMLp.png)
 
 > _Add a real screenshot or GIF of the welcome screen here before publishing._
 
